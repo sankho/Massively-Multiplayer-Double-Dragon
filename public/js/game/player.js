@@ -22,7 +22,7 @@ MMDD.player = (function() {
 		    type    : 'image',
 		    src		: '/images/BillyLee.png',
 		    x       : 30,
-		    y       : 30,
+		    y       : 250,
 		    width	: 60,
 		    height  : 93
 		},spriteModel.frames.init));
